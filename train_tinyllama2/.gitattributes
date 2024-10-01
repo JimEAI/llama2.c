@@ -1,2 +1,0 @@
-model.bin filter=lfs diff=lfs merge=lfs -text
-ckpt.pt filter=lfs diff=lfs merge=lfs -text
